@@ -165,7 +165,7 @@ int algo3(int * arr1, int * arr2, int size1, int size2) {
 
 int main() {
 
-    for (int iteration = 6; iteration <= 10; iteration++) {
+    for (int iteration = 1; iteration <= 10; iteration++) {
 
         // Determine size of arr1 and arr2
         int size1 = 100000 * iteration;
